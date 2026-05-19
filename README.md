@@ -18,4 +18,4 @@ A lightweight custom command-line shell built with Python.
 ## Usage
 
 ```bash
-python 
+python  main.py
